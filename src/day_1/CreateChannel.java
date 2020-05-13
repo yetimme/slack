@@ -7,5 +7,10 @@ public class CreateChannel {
         System.out.println("User is able to create channels");
 
         System.out.println("Something added");
+
+        int x=0;
+        if (x==0){
+            System.out.println("equal");
+        }
     }
 }
